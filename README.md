@@ -4,28 +4,28 @@ A web-based **Student Academic Portal System** developed using **JSP, Java Servl
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 - Role-based login (Admin, Principal, Teacher, Student)
 - Session management
 - CAPTCHA-secured Admin login
 - PreparedStatement-based SQL queries for security
 
-### 👨‍💼 Admin
+###  Admin
 - Add, edit, delete students and teachers
 - Profile photo upload (JPG/PNG)
 - View all records
 - Manage profile and password
 
-### 🏫 Principal
+###  Principal
 - Dashboard with department-wise statistics
 - Department performance analytics
 - Student performance analysis
 - Teacher details by department
 - View all student records
 
-### 👨‍🏫 Teacher
+###  Teacher
 - Add and update student marks
 - Record attendance
 - Department analytics
@@ -33,27 +33,27 @@ A web-based **Student Academic Portal System** developed using **JSP, Java Servl
 - View students of assigned department
 - Manage profile
 
-### 🎒 Student
+###  Student
 - View marks and attendance
 - Academic performance summary
 - Update profile
 - Change password
 
-### 📊 Analytics
+###  Analytics
 - Subject-wise average marks and attendance
 - Interactive Chart.js bar charts
 - Top performers and low performers
 - Overall grade calculation
 - Student progress reports
 
-### ⚡ Dynamic Features
+###  Dynamic Features
 - AJAX-based student and subject selection
 - Responsive interface
 - Profile image upload
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -65,7 +65,7 @@ A web-based **Student Academic Portal System** developed using **JSP, Java Servl
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 SAPS/
