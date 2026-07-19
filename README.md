@@ -75,13 +75,15 @@ SAPS/
 ├── student/
 ├── servlets/
 ├── images/
-└── WEB-INF/
+├── WEB-INF/
+└── Videos/
+
 ```
 
 ## Demo Video
 
 Watch the project demonstration here:
 
-- ▶️ [Student Academic Portal System Demo](Videos/SPA_Video.mp4)
+- ▶️ [Student Academic Portal System Demo](Videos/SPA_video-compressed.mp4)
 
-```
+---
