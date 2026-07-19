@@ -82,8 +82,5 @@ SAPS/
 
 ## Demo Video
 
-Watch the project demonstration here:
-
-- ▶️ [Student Academic Portal System Demo](Videos/SPA_video-compressed.mp4)
-
+[Watch the SAPS Demo Video](https://github.com/PAcharya204/SPA/blob/main/Videos/SPA_video-compressed.mp4)
 ---
