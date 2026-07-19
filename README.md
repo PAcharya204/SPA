@@ -1,4 +1,4 @@
-# 🎓 Student Academic Portal System (SAPS)
+# Student Academic Portal System (SAPS)
 
 A web-based **Student Academic Portal System** developed using **JSP, Java Servlets, MySQL, and Apache Tomcat**. The system provides dedicated portals for **Admin, Principal, Teachers, and Students** to manage academic records, attendance, and performance analytics.
 
@@ -76,4 +76,12 @@ SAPS/
 ├── servlets/
 ├── images/
 └── WEB-INF/
+```
+
+## Demo Video
+
+Watch the project demonstration here:
+
+- ▶️ [Student Academic Portal System Demo](Videos/SPA_Video.mp4)
+
 ```
